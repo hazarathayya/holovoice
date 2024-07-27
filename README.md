@@ -16,10 +16,12 @@ streamlit run main.py
 ```
 
 ### Running locally
-<img width="1512" alt="Screenshot 2024-07-11 at 7 50 26 PM" src="https://github.com/hazarathayya/holovoice/assets/92698778/8c6d1ea1-d7d4-4bd3-b32c-befd5ef58902">
+![image](https://github.com/user-attachments/assets/78a9dc1e-b64a-4377-b007-f2057935e090)
+
 
 After getting cloned voice
-<img width="1512" alt="Screenshot 2024-07-11 at 8 00 23 PM" src="https://github.com/hazarathayya/holovoice/assets/92698778/f54a8eec-b7e7-402c-970c-51708470571d">
+![image](https://github.com/user-attachments/assets/f428bd64-a9e7-4974-aeca-0c67a243f16b)
+
 
 
 ## Credits
